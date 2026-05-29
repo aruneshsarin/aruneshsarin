@@ -47,8 +47,12 @@ const arunesh = {
 ### 📊 My GitHub in numbers
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aruneshsarin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aruneshsarin&layout=compact&theme=tokyonight" alt="top languages" />
+  <a href="https://github.com/aruneshsarin">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aruneshsarin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" alt="github stats" />
+  </a>
+  <a href="https://github.com/aruneshsarin">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aruneshsarin&layout=compact&theme=tokyonight&cache_seconds=86400" alt="top languages" />
+  </a>
 </p>
 
 <p align="center">
